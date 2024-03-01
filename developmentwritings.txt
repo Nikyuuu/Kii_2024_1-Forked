@@ -1,0 +1,6 @@
+So team we will follow these new instructions on how to develop the precise ide a. 
+-part1 
+-part2 
+-part3
+ -part 4
+
